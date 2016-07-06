@@ -1,0 +1,9 @@
+{  
+  "name": "com.google.chrome.zycsy",  
+  "description": "Chrome Native Messaging API Example Host",  
+  "path": "SyPrintTool.exe",  
+  "type": "stdio",  
+  "allowed_origins": [  
+    "chrome-extension://njkgobnaciklankfahaohkjhjgchekfe/"  
+  ]  
+}  
